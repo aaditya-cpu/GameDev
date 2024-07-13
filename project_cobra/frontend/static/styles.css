@@ -1,0 +1,9 @@
+canvas {
+    background-color: brown;
+    display: block;
+    margin: auto;
+}
+button {
+    display: block;
+    margin: 10px auto;
+}
